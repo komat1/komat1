@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komat1&label=Profile%20views&color=ff2600&style=flat" alt="komat1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komat1" alt="komat1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mkolestik" target="blank"><img src="https://img.shields.io/twitter/follow/mkolestik?logo=twitter&style=for-the-badge" alt="mkolestik" /></a> </p>
 
 - 🌱 I’m currently learning **React**
